@@ -22,7 +22,7 @@ public class Ex3_NumerosAleatorios {
             System.out.print(numero + " ");
         }
 
-        System.out.print("\nAntecessor dos Numeros Aleatorios: ");
+        System.out.print("\nAntecessores dos Numeros Aleatorios: ");
         for (int numero : numerosAleatorios) {
             System.out.print((numero-1) + " ");
         }
@@ -33,5 +33,4 @@ public class Ex3_NumerosAleatorios {
         }
 
     }
-
 }
